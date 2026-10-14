@@ -1,12 +1,12 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Rohan Hirani
 =====================================================================================================================================
 
-Data Analyst/Agentic AI
+Data Analyst
 -----------------------
 
 I have been coding for 2-3 years and have started to develop new project ideas leveraging my financial background having completed my MSc Financial Technology and Innovation and 2-years experience as Data Analyst at a Wealth Management Practice.
 
-My course taught the fundamentals of the investment & banking industry, as well as the role of technology in the transformation of new products and services.
+My course taught the fundamentals of the investment & banking industry, and the role of technology in the transformation of products and services.
 
 * 🌍  I'm based in London
 * 🖥️  Please view my coding repositories for insight on my work.
